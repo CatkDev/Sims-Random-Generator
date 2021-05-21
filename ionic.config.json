@@ -1,0 +1,7 @@
+{
+  "name": "srg",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
